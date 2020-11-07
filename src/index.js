@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/bootstrap.css'
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import 'jquery/'
 
 ReactDOM.render(
   <React.StrictMode>
